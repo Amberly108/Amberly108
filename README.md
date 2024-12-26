@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 🔭 I’m working on: Building a personal project in data analysis and contributing to open-source projects.
 - 👯 I’m looking to collaborate on: Open-source projects and innovative tech ideas.
 - 💬 Ask me about: Python, JavaScript, Data Science, and Web Development.
-- 📫 How to reach me: [Email](dwivedinidhi272@gmail.com)
+- 📫 How to reach me: [Email](mailto:dwivedinidhi272@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ## GitHub Stats
